@@ -4,6 +4,6 @@ This is my first live website built using:
 - CSS
 - JavaScript
 🌐 Live Website:
-(https://github.com/Sahil-Dass007/Day1_Coding/new/main?filename=README.md)
+  (https://Sahil-Dass007.github.io/Day1_Coding/)
 🎯 Goal:
 Become a skilled web developer and build real projects.
